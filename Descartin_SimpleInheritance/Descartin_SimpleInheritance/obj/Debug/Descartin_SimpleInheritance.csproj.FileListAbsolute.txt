@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Downloads\EXER6\Descartin_SimpleInheritance\Descartin_SimpleInheritance\bin\Debug\Descartin_SimpleInheritance.exe.config
+C:\Users\ACT-STUDENT\Downloads\EXER6\Descartin_SimpleInheritance\Descartin_SimpleInheritance\bin\Debug\Descartin_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Downloads\EXER6\Descartin_SimpleInheritance\Descartin_SimpleInheritance\bin\Debug\Descartin_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\Downloads\EXER6\Descartin_SimpleInheritance\Descartin_SimpleInheritance\obj\Debug\Descartin_SimpleInheritance.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\EXER6\Descartin_SimpleInheritance\Descartin_SimpleInheritance\obj\Debug\Descartin_SimpleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Downloads\EXER6\Descartin_SimpleInheritance\Descartin_SimpleInheritance\obj\Debug\Descartin_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Downloads\EXER6\Descartin_SimpleInheritance\Descartin_SimpleInheritance\obj\Debug\Descartin_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\Downloads\EXER6\Descartin_SimpleInheritance\Descartin_SimpleInheritance\obj\Debug\Descartin_SimpleInheritance.exe.config
