@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\New folder\DESCARTIN_InheritanceUserInput\DESCARTIN_InheritanceUserInput\bin\Debug\DESCARTIN_InheritanceUserInput.exe.config
+C:\Users\ACT-STUDENT\Desktop\New folder\DESCARTIN_InheritanceUserInput\DESCARTIN_InheritanceUserInput\bin\Debug\DESCARTIN_InheritanceUserInput.exe
+C:\Users\ACT-STUDENT\Desktop\New folder\DESCARTIN_InheritanceUserInput\DESCARTIN_InheritanceUserInput\bin\Debug\DESCARTIN_InheritanceUserInput.pdb
+C:\Users\ACT-STUDENT\Desktop\New folder\DESCARTIN_InheritanceUserInput\DESCARTIN_InheritanceUserInput\obj\Debug\DESCARTIN_InheritanceUserInput.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\New folder\DESCARTIN_InheritanceUserInput\DESCARTIN_InheritanceUserInput\obj\Debug\DESCARTIN_InheritanceUserInput.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\New folder\DESCARTIN_InheritanceUserInput\DESCARTIN_InheritanceUserInput\obj\Debug\DESCARTIN_InheritanceUserInput.exe
+C:\Users\ACT-STUDENT\Desktop\New folder\DESCARTIN_InheritanceUserInput\DESCARTIN_InheritanceUserInput\obj\Debug\DESCARTIN_InheritanceUserInput.pdb
+C:\Users\ACT-STUDENT\Desktop\New folder\DESCARTIN_InheritanceUserInput\DESCARTIN_InheritanceUserInput\obj\Debug\DESCARTIN_InheritanceUserInput.exe.config
